@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -42,16 +42,12 @@
       Link="/Content/D_Images/ImageWithinList.htm" />
   </TocEntry>
   <TocEntry
-    Title="More Features"
-    Link="/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm">
+    Title="More Features">
     <TocEntry
-      Title="Conditions"
-      Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
+      Title="Conditions" />
     <TocEntry
-      Title="Notes, Examples, and Blockquotes"
-      Link="/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+      Title="Notes, Examples, and Blockquotes" />
     <TocEntry
-      Title="Tables"
-      Link="/Content/C_Conditions Notes Tables/Tables.htm" />
+      Title="Tables" />
   </TocEntry>
 </CatapultToc>
